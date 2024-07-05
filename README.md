@@ -7,6 +7,11 @@ Automated mining for Nodepay.
 Using web socks to mimic communication between nodepay extension and nodepay server.
 
 ## Usage
+## Clone
+```
+git clone https://github.com/Galkurta/Node-Pay
+``
+
 ### First usage 
 ```
 python3 -m venv ./venv
