@@ -10,7 +10,7 @@ Using web socks to mimic communication between nodepay extension and nodepay ser
 ## Clone
 ```
 git clone https://github.com/Galkurta/Node-Pay
-``
+```
 
 ### First usage 
 ```
@@ -21,7 +21,6 @@ cp ./env_example ./env
 ```
 
 ### For .env
-
 for NP_TOKEN
 in logined nodepay web console run
 ```
