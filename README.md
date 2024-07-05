@@ -21,7 +21,7 @@ cp ./env_example ./env
 ```
 
 ### For .env
-for NP_TOKEN
+For NP_TOKEN
 in logined nodepay web console run
 ```
 localStorage.getItem('np_token');
