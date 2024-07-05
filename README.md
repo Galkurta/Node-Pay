@@ -26,13 +26,17 @@ in logined nodepay web console run
 ```
 localStorage.getItem('np_token');
 ```
-### gerneral usage 
+### No proxy
 
 ```
-source ./venv/bin/activate
-python3 ./nodepay_no_proxy.py
+python3 nodepay_no_proxy.py
 ```
- 
+### With proxy
+
+```
+python3 nodepay_proxy.py
+```
+
 # Proxy
 This project support proxy.
 If you want to use proxy for change your IP, add proxy in proxy-list.txt
