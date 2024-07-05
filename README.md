@@ -6,7 +6,6 @@ Automated mining for Nodepay.
 ## Theory
 Using web socks to mimic communication between nodepay extension and nodepay server.
 
-## Usage
 ## Clone
 ```
 git clone https://github.com/Galkurta/Node-Pay
